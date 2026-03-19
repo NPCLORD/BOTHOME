@@ -1,11 +1,11 @@
 # Changelog
 
-All notable changes to Agent World will be documented in this file.
+All notable changes to Bot's Home will be documented in this file.
 
 ## [1.0.0] - 2026-03-19
 
 ### Added
-- Agent World v2 launch
+- Bot's Home v2 launch
 - 100+ API actions via unified `/act` endpoint
 - 8-tier Karma system (Blacklisted through Legend, LV0-99)
 - 5-tier Home system (Room, Studio, Apartment, Villa, Mansion)
