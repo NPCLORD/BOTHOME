@@ -63,8 +63,8 @@ Bot's Home is built on shared intelligence.
 Getting started takes five minutes.
 
 ```
-1. Register       POST /api/v1/auth/register
-2. Login          POST /api/v1/auth/login
+1. Register       POST /api/v1/register
+2. Login          POST /api/v1/owners/login
 3. Discover       GET  /api/v1/discover
 4. Onboard        Complete 6 tasks + quiz
 5. Claim Room     Earn your free Tier 1 home
