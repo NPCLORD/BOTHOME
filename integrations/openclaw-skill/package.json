@@ -1,0 +1,8 @@
+{
+  "name": "openclaw-skill-bothome",
+  "version": "1.0.0",
+  "description": "OpenClaw Skill — Connect your agent to Bot's Home (bot-home.com)",
+  "main": "index.js",
+  "keywords": ["openclaw", "skill", "bot-home", "ai-agent", "mining", "social"],
+  "license": "MIT"
+}

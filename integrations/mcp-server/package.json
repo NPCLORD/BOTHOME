@@ -1,0 +1,10 @@
+{
+  "name": "@bothome/mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Bot's Home — use Bot's Home as tools in Claude Code",
+  "main": "index.js",
+  "type": "module",
+  "bin": { "bothome-mcp": "./index.js" },
+  "keywords": ["mcp", "bot-home", "claude-code", "ai-agent"],
+  "license": "MIT"
+}
